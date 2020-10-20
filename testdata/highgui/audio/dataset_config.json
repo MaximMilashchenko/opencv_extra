@@ -1,0 +1,32 @@
+{
+    "test_audio": [
+        { "audio_name": "test_8bit_1channels_44100hz.wav",
+            "audio_data_name": "test_8bit_1channels_44100hz.bin" },
+        { "audio_name": "test_8bit_2channels_44100hz.wav",
+            "audio_data_name": "test_8bit_2channels_44100hz.bin" },
+        { "audio_name": "test_16bit_1channels_44100hz.wav",
+            "audio_data_name": "test_16bit_1channels_44100hz.bin" },
+        { "audio_name": "test_16bit_2channels_44100hz.wav",
+            "audio_data_name": "test_16bit_2channels_44100hz.bin" },
+        { "audio_name": "test_24bit_1channels_44100hz.wav",
+            "audio_data_name": "test_24bit_1channels_44100hz.bin" },
+        { "audio_name": "test_24bit_2channels_44100hz.wav",
+            "audio_data_name": "test_24bit_2channels_44100hz.bin" },
+        { "audio_name": "test_32bit_1channels_44100hz.wav",
+            "audio_data_name": "test_32bit_1channels_44100hz.bin" },
+        { "audio_name": "test_32bit_2channels_44100hz.wav",
+            "audio_data_name": "test_32bit_2channels_44100hz.bin" },
+        { "audio_name": "test_16bit_1channels_44100hz.flac",
+            "audio_data_name": "test_16bit_1channels_44100hz.bin" },
+        { "audio_name": "test_16bit_2channels_44100hz.flac",
+            "audio_data_name": "test_16bit_2channels_44100hz.bin" },
+        { "audio_name": "test_24bit_1channels_44100hz.flac",
+            "audio_data_name": "test_24bit_1channels_44100hz.bin" },
+        { "audio_name": "test_24bit_2channels_44100hz.flac",
+            "audio_data_name": "test_24bit_2channels_44100hz.bin" },
+        { "audio_name": "test_1channels_44100hz.mp3",
+            "audio_data_name": "test_16bit_1channels_44100hz.bin" },
+        { "audio_name": "test_2channels_44100hz.mp3",
+            "audio_data_name": "test_16bit_2channels_44100hz.bin" }
+    ]
+}
